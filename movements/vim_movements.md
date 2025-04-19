@@ -4,6 +4,10 @@
 - [Movements](#️-movement-commands)
     - [↗️ Movement Commands](#↗️-movement-commands)
     - [🖥️ Screen Movements](#️🖥️-screen-movements)
+    - [🧭 Line Navigation](#🧭-line-navigation)
+    - [🧾 Naviagate to Para & Sen](#🧾-paragraph--sentence)
+    - [🔖 Marks & Jumps ](#🔖-mark--jump)
+
 
 ## ↗️ Movement Commands
 > If you'r in insert mode you can use these commands. It is used to moving `cursor` around the text editor.
@@ -43,3 +47,24 @@
 | **`}`** | Move to **next paragraph** |
 | **`(`** | Move to **previous sentence** |
 | **`)`** | Move to **next sentence** |
+
+## 🔎 Search Based Movement
+| Command | Action |
+|---------|--------|
+| **`/text`** | Search forward for `text` |
+| **`?text`** | Search backword for `text` |
+| **`n`** | Next match(in same direction)|
+| **`N`** | Next match(opposite direction) |
+| **`*`** | Search forward for word under cursor |
+| **`#`** | Search backword for word under cusor |
+
+## 🔖 Mark & Jump
+| Command | Action |
+|---------|--------|
+| `'a` | Jump to the start of the line of mark a |
+| `` `a `` | Jump to the exact position (line + column) of mark a |
+| `'A` / `` `A `` | Jump to global mark A |
+| `''` | Jump to the previous cursor line |
+| **`'' or `` `** | Return to previous cursor location |
+| **`ctrl + o`** | Go back (older cursor postion) |
+| **`ctrl + i`** | Go forward(newer cursor position) |
