@@ -49,4 +49,3 @@
 | `''` | Jump to the previous cursor line |
 | ``` `` ``` | Jump to the previous cursor position |
 
-    

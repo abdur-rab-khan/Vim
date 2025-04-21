@@ -1,4 +1,4 @@
-# ![Vim](https://img.icons8.com/?size=40&id=7XSgvKh878Kn&format=png&color=000000)  Vim Movements
+
 
 - ### Table of Contents
 - [Movements](#️-movement-commands)
@@ -61,10 +61,19 @@
 ## 🔖 Mark & Jump
 | Command | Action |
 |---------|--------|
-| `'a` | Jump to the start of the line of mark a |
-| `` `a `` | Jump to the exact position (line + column) of mark a |
-| `'A` / `` `A `` | Jump to global mark A |
-| `''` | Jump to the previous cursor line |
+| **`'a`** | Jump to the start of the line of mark a |
+| **`` `a ``** | Jump to the exact position (line + column) of mark a |
+| **`'A`** / **`` `A ``** | Jump to global mark A |
+| **`''`** | Jump to the previous cursor line |
 | **`'' or `` `** | Return to previous cursor location |
 | **`ctrl + o`** | Go back (older cursor postion) |
 | **`ctrl + i`** | Go forward(newer cursor position) |
+
+
+## 🖱️ Scrolling
+| Command | Action |
+|---------|--------|
+| **`Ctrl + d`** | Scroll **half screen** down |
+| **`Ctrl + u`** | Scroll **half** screen up |
+| **`Ctrl + f`** | Scroll **full** screen down |
+| **`Ctrl + b`** | Scroll **full** screen up |
