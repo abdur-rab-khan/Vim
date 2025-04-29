@@ -4,7 +4,7 @@
 - [Character-Based Deletion](#🔤-character-based-deletion)
 - [Word-Based Deletion](#⭐-word-based-deletion)
 - [Line and Paragraph Deletion](#⭐-line-and-paragraph-deletion)
-- [Screen and Sentance Based](#⭐-screen-and-sentance-based)
+- [Screen and Sentence Based](#⭐-screen-and-sentance-based)
 - [Character and Line Range Deletion](#⭐-character-and-line-range-deletion)
 
 ## 🔤 Character-Based Deletion

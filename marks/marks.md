@@ -5,7 +5,7 @@
     - Navigating large files
     - Working on multiple locations
     - Jumping between definitions and uses
-    - Temparary bookmarks
+    - Temporary bookmarks
 
 - **Types of Marks** 
     1. User-defined Marks(**`a-z`**)
@@ -34,10 +34,10 @@
 ## 🛠️ Helpful Commands forManaging Marks
 | Command | Purpose |
 |---------|---------|
-| `:marks` | Show all currentmarks |
+| `:marks` | Show all current marks |
 | `:delmarks a` | Delete marka |
-| `:delmarks a-d` | Deletemarks a through d |
-| `:delmarks!` | Delete allmarks |
+| `:delmarks a-d` | Delete marks a through d |
+| `:delmarks!` | Delete all marks |
 
 
 ## 🚀 Jumping to Marks

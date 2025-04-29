@@ -1,5 +1,3 @@
-
-
 - ### Table of Contents
 - [Movements](#️-movement-commands)
     - [↗️ Movement Commands](#↗️-movement-commands)
@@ -77,3 +75,15 @@
 | **`Ctrl + u`** | Scroll **half** screen up |
 | **`Ctrl + f`** | Scroll **full** screen down |
 | **`Ctrl + b`** | Scroll **full** screen up |
+
+## 🧭 Jump to cursor **`Previous/Next`** Cursor Position
+| Command | Action |
+|---------|--------|
+| **`g;`** | Go to **last** change |
+| **`g,`** | Go to **next** change |
+| **`''`** | **Previous** cursor position (line) |
+| **` `` `** | **Previous** cursor position (exact) |
+| **`Ctrl + i`** | Go to **previous** position |
+| **`Ctrl + o`** | Go to **next** position |
+| **`:jumps`** | View the jump list |
+| **`Ctrl + o`** | Go to **next** position |
